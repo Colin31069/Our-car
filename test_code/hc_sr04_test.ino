@@ -4,21 +4,21 @@
 //超音波
 
 //左側超音波
-#define TRIG_left 51
-#define ECHO_left 53
+#define TRIG_left 43
+#define ECHO_left 45
 
 //前左超音波
-#define TRIG_forward_left 47
-#define ECHO_forward_left 49
+#define TRIG_forward_left 39
+#define ECHO_forward_left 41
 
 
 //前右超音波
-#define TRIG_forward_right 48
-#define ECHO_forward_right 46
+#define TRIG_forward_right 40
+#define ECHO_forward_right 38
 
 //右側超音波
-#define TRIG_right 52
-#define ECHO_right 50
+#define TRIG_right 44
+#define ECHO_right 42
 
 void setup()
 {
